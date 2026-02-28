@@ -1,0 +1,9 @@
+.DS_Store
+*.swp
+*.swo
+*.bak
+target/
+node_modules/
+__pycache__/
+.env
+.envrc
